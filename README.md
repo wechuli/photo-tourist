@@ -1,6 +1,8 @@
 # photo-tourist
 Photo tourist application functioning in an instagram style
 Technology Stack
+
+
     -Django
     -Django Rest Framework
     -React Front End
@@ -10,6 +12,8 @@ Technology Stack
     -AWS Lambda
     
  Functionality
+ 
+ 
       -This is a photo tourist application, where users will be able to
               -Create an account
               -Create photo-projects which are scoped to trips they have made
@@ -24,6 +28,10 @@ Technology Stack
               
               
    Other Functionality(which I have no idea how to implement but am gonna try anyway)
+   
+   
             -Have the ability to display a slideshow of all the photos of a trip from start to finish
             -Have the ability to upload videos also and call AWS services to translate and transcribe the videos
             -Enable a user to have a wishlist of the places they would like to visit which will make the system suggest photo projects from people who have visited these places
+            -Generate statistics about where the user has travelled and draw a map on the same
+   
